@@ -1,2 +1,4 @@
 Hello World!
 This is my second file in GitHub.
+
+I am learning how to use GitHub. 
